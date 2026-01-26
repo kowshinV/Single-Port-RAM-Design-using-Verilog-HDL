@@ -24,19 +24,6 @@ This project is suitable for VLSI internships, FPGA beginners, and digital desig
 
 ---
 
-## Block Diagram
-        ┌──────────────┐
-        │              │
-Addr ──►│              │
-Data_in►│  Single Port  │──► Data_out
-  clk ─►│      RAM      │
-  cs  ─►│              │
- read ─►│              │
- write─►│              │
-        └──────────────┘
-
----
-
 ## Simulation Waveform
 📂 /waveform/
    └── single_port_ram_waveform.png
