@@ -47,13 +47,11 @@ Testbench
 ---
 
 ## 🛠 Tools Used
-
-Verilog HDL
-
-ModelSim / QuestaSim / Vivado (any simulator)
-
-GTKWave (for waveform visualization)
-
+- **Cadence Xcelium** – RTL compilation, simulation, and functional verification
+- **SimVision** – Waveform viewing and signal-level debugging
+- **Cadence Genus** – RTL synthesis and area/timing analysis
+- **MobaXterm (Mobastream)** – Linux-based remote EDA working environment
+- **Verilog HDL** – Hardware description language for design and testbench
 ---
 
 ## 🎯 Applications
