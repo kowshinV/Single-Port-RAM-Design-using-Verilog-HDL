@@ -75,6 +75,6 @@ Kowshin
 VLSI & Embedded Systems Enthusiast
 BE ECE, HICET
 
-⭐ Acknowledgement
-
+**⭐ Acknowledgement**
+ **
 This project is developed for learning and internship preparation in VLSI Design & Verification.
