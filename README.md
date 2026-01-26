@@ -42,7 +42,7 @@ This project is suitable for VLSI internships, FPGA beginners, and digital desig
 
 ## Verilog-code
 Top Module – Single Port RAM (RTL)
-[👉Click here to view top_module](./spr.v)
+[👉Click here to view top_module](./spr_t.v)
 
 Testbench
 [👉Click here to view testbench](./spr_tb.v)
