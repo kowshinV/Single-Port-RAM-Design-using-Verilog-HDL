@@ -26,7 +26,7 @@ This project is suitable for VLSI internships, FPGA beginners, and digital desig
 
 ## Simulation Waveform
 📂 /waveform/
-   └── [👉view waveform](./spr_w)
+   └── [👉view waveform](./spr_w.png)
 
 ## 👉 The waveform verifies:
 * Correct write operation on clock edge
@@ -37,7 +37,7 @@ This project is suitable for VLSI internships, FPGA beginners, and digital desig
 
 ## Schematic / RTL Diagram
 📂 /schematic/
-   └── single_port_ram_rtl.png
+   └──  [👉view schematic diagram](./spr_tb.png)
 
 ---
 
