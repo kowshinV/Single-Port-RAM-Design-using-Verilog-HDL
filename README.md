@@ -26,7 +26,8 @@ This project is suitable for VLSI internships, FPGA beginners, and digital desig
 
 ## Simulation Waveform
 📂 /waveform/
-   └── single_port_ram_waveform.png
+   └── [👉view waveform](./spr_w)
+
 ## 👉 The waveform verifies:
 * Correct write operation on clock edge
 * Proper data read from memory
